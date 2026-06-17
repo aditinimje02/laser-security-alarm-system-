@@ -42,14 +42,6 @@ This project demonstrates the practical application of sensors and basic electro
 
 ---
 
-## 📷 Project Image
-
-Add the project image here.
-
-![Laser Security Alarm System](project_photo.jpg)
-
----
-
 ## 🎯 Applications
 
 - Home Security Systems
