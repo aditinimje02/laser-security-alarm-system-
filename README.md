@@ -18,7 +18,7 @@ This project demonstrates the practical application of sensors and basic electro
 - LED
 - Resistor
 - 9V Battery
-- Connecting Wires
+
 
 ---
 
